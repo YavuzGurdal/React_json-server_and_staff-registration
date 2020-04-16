@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hasan",
+      "surname": "Yildiz",
+      "city": "Istanbul",
+      "email": "hsn@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Yakup",
+      "surname": "Mersinli",
+      "city": "Izmir",
+      "email": "ykp@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Fatma",
+      "surname": "Günes",
+      "city": "Ankara",
+      "email": "ftm@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Ayse",
+      "surname": "Aydin",
+      "city": "Bursali",
+      "email": "ays@gmail.com"
+    }
+  ]
+}
